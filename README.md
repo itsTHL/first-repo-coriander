@@ -28,3 +28,9 @@ First time using GitHub and learning to use Markdown, whoo.
 
 ### Code line
 adding `line` of code `name=Tina`
+
+### Block code
+```js
+let cohort = "Coriander"
+let students = 17
+```
