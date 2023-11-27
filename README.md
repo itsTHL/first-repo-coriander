@@ -20,3 +20,6 @@ First time using GitHub and learning to use Markdown, whoo.
 
 ## Adding an image
 ![This is an image of lots of spices](https://www.upwellness.com/wp-content/uploads/2016/08/Fotolia_87176242_Subscription_Monthly_M.jpg)
+
+## Adding my own image
+![image of Immergut Christmas Party '19](ownimage.jpg)
