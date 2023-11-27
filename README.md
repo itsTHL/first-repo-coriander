@@ -23,3 +23,8 @@ First time using GitHub and learning to use Markdown, whoo.
 
 ## Adding my own image
 ![image of Immergut Christmas Party '19](ownimage.jpg)
+
+## Coding
+
+### Code line
+adding `line` of code `name=Tina`
