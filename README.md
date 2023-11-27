@@ -13,3 +13,7 @@ First time using GitHub and learning to use Markdown, whoo.
 - First item
 - Second item
 - Third item
+
+## Link a page
+[Markdown Guide](https://www.markdownguide.org/)
+[ZType Typing Game](https://zty.pe/)
